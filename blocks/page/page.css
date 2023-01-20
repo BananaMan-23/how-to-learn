@@ -1,9 +1,9 @@
 @keyframes rotation {
   from {
-      transform: rotate(0deg);
+    transform: rotate(0deg);
   }
   to {
-      transform: rotate(360deg);
+    transform: rotate(360deg);
   }
 }
 .page {
@@ -17,7 +17,7 @@
   font-family: "Helvetica Neue", Arial, sans-serif;
 }
 a:hover {
-  color: rgb(255, 77, 77);
+  color: rgb(255, 70, 70);
   transition: 0.3s;
   opacity: 0.5;
 }
