@@ -1,8 +1,0 @@
-.two-columns {
-  width: 80%;
-  min-width: 784px;
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  margin: 100px auto;
-}
