@@ -4,5 +4,5 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  background: linear-gradient(to bottom,#fff 70%,#f2f2f2 30%);
+  background: linear-gradient(to bottom,#fff 90%,#f2f2f2 10%);
 }

@@ -8,8 +8,3 @@
   /* выше для экранов больше 1600px отцентрировали весь контент */
   font-family: "Helvetica Neue", Arial, sans-serif;
 }
-a:hover {
-  color: rgb(255, 70, 70);
-  transition: 02s;
-  opacity: 0.5;
-}

@@ -9,3 +9,8 @@
   color: #2f80ed;
   z-index: 2;
 }
+.feynman__link:hover {
+  color: rgb(255, 70, 70);
+  transition: 02s;
+  opacity: 0.5;
+}
